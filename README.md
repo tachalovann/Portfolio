@@ -1,7 +1,8 @@
 # Портфолио
 ## Тачалова Наталия
 
-<img src="image-!(https://github.com/tachalovann/Portfolio/blob/main/images/foto.jpg)" alt="Alt Text" style="width:30%; height:auto;">
+<img src="https://github.com/tachalovann/Portfolio/blob/main/images/foto.jpg" alt=" " width="300" height="200">
+
 
 ### Образование
 1. Информационные системы в экономике
