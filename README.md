@@ -1,7 +1,7 @@
 # Портфолио
 ## Тачалова Наталия
 
-<img src="https://github.com/tachalovann/Portfolio/blob/main/images/foto.jpg" alt=" " width="300" height="200">
+<img src="https://github.com/tachalovann/Portfolio/blob/main/images/foto.jpg" alt=" " width="300" height="auto">
 
 
 ### Образование
