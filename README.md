@@ -1,6 +1,6 @@
 ## Тачалова Наталия
 
-<img src="https://github.com/tachalovann/Portfolio/blob/main/images/foto.jpg" alt=" " width="150" height="auto">
+<img src="https://github.com/tachalovann/Portfolio/raw/main/images/foto.jpg" alt=" " width="150" height="auto">
 
 
 ### Образование
